@@ -81,8 +81,8 @@ Here you can find pre-trained models for CLEVR question answering.
 Download them and place in the appropriate folders indicated in 
 [Data processing](#data-processing).
 
-- [CLEVR Question-to-graph]()
-- [CLEVR Object detector]()
-- [CLEVR VL-BERT]()
+- [CLEVR Question-to-graph](https://drive.google.com/file/d/1lBIaJ9ha8dPbCYbb52ezsJGcyPmGqpg-/view?usp=sharing)
+- [CLEVR Object detector](https://drive.google.com/file/d/1B7d7ZNRxRKNR-4DwLHUMCEEAcQt5NGsF/view?usp=sharing)
+- [CLEVR VL-BERT](https://drive.google.com/file/d/11tJzVUBqrQsXYd2Go0ZR3YwJDjzaE29l/view?usp=sharing)
 
 
